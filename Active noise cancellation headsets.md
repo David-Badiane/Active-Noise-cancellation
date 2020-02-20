@@ -6,9 +6,9 @@ Noise cancellation can be achieved in many modes, from **DSP** to **analog circu
 
 In this small presentation we will discuss about an analog circuit able to reduce noise targetting certain frequencies.
 
-(main circuit)[https://www.partsim.com/simulator#266711]
+[main circuit](https://www.partsim.com/simulator#266711)
 
-<p align ="center" > <img width ="900" height ="600" src = "/schematics.png"> </p>
+<p align ="center" > <img width ="900" height ="600" src = "/schematic.png"> </p>
 <p align ="center" > <img width ="900" height ="600" src = "/circuit.jpg"> </p>
 
 
