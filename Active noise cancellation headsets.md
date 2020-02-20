@@ -57,6 +57,7 @@ The distance between ears and microphone is more or less of 14cm. tuning the noi
 1) I have the major problem of power supply: i tried with an arduino, with some batteries and now with a 9V battery.
 2) It isn't easy to fecth the audio signal from the jack cable, I tried cutting and rewiring the jack cable but it resulted damagesd,  so i then tried to work directly with the signal, but again it's not easy to fetch the audiosignal from the speakers via wires for the noise and for finding the means to do it
 3) Not having a reliable oscilloscope I can't understand what really goes wrong and what is good, I used Arduino oscilloscope and found out that the cable does not work
+4) the wires of the microphone and the breadboard fetch a lot of noise, isolation is strictly necessary.
 
 ## Simulation
 
