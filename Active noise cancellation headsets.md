@@ -37,4 +37,4 @@ For each channel we have a:
 
 ## Adder and speaker output
 
-<p align ="center" > <img width =700" height ="400" src = "/schematic3.png"> </p>
+<p align ="center" > <img width =700" height ="400" src = "/schematic3.jpg"> </p>
