@@ -11,6 +11,25 @@ In this small presentation we will discuss about an analog circuit able to reduc
 <p align ="center" > <img width =700" height ="400" src = "/schematic.png"> </p>
 <p align ="center" > <img width ="900" height ="600" src = "/circuit.jpg"> </p>
 
+For each channel we have a:
 
+**MICROPHONE SETTING STAGE**
+
+**MICROPHONE PREAMPLIFICATION STAGE**
+
+**ALLPASS CIRCUIT for delaying and timing**
+
+**INVERTING ADDER**
+
+**SPEAKER**
+
+## Microphone setting stage
+<p align ="center" > <img width =700" height ="400" src = "/schematic0.png"> </p>
+  
+## Microphone inverting preamp
+<p align ="center" > <img width =700" height ="400" src = "/schematic1.png"> </p>
+
+## Allpass delaying circuit
+<p align ="center" > <img width =700" height ="400" src = "/schematic2.png"> </p>
 
 
