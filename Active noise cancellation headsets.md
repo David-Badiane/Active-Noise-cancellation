@@ -8,7 +8,7 @@ In this small presentation we will discuss about an analog circuit able to reduc
 
 [main circuit](https://www.partsim.com/simulator#266711)
 
-<p align ="center" > <img width ="900" height ="600" src = "/schematic.png"> </p>
+<p align ="center" > <img width =700" height ="400" src = "/schematic.png"> </p>
 <p align ="center" > <img width ="900" height ="600" src = "/circuit.jpg"> </p>
 
 
