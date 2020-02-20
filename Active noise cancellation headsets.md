@@ -59,7 +59,7 @@ The distance between ears and microphone is more or less of 14cm. tuning the noi
 3) I used Arduino oscilloscope and found out that the cable that takes the music does not work, and that the microphone isn't working either. Opamps seem to be working.
 4) the wires of the microphone and the breadboard fetch a lot of noise, isolation is strictly necessary.
 
-<p align ="center" > <img width =400" height ="700" src = "/final state.jpg"> </p>
+<p align ="center" > <img width =400" height ="600" src = "/final state.jpg"> </p>
 ## Simulation
 
 
