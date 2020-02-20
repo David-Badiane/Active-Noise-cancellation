@@ -50,7 +50,7 @@ The distance between ears and microphone is more or less of 14cm. tuning the noi
 
 ## Adder and speaker output
 
-<p align ="center" > <img width =700" height ="400" src = "/schematic3.jpg"> </p>
+<p align ="center" > <img width =700" height ="400" src = "/schematic3.png"> </p>
   
 # PROBLEMS
 
