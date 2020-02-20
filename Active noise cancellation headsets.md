@@ -24,12 +24,17 @@ For each channel we have a:
 **SPEAKER**
 
 ## Microphone setting stage
+
 <p align ="center" > <img width =700" height ="400" src = "/schematic0.png"> </p>
   
 ## Microphone inverting preamp
+
 <p align ="center" > <img width =700" height ="400" src = "/schematic1.png"> </p>
 
 ## Allpass delaying circuit
+
 <p align ="center" > <img width =700" height ="400" src = "/schematic2.png"> </p>
 
+## Adder and speaker output
 
+<p align ="center" > <img width =700" height ="400" src = "/schematic3.png"> </p>
