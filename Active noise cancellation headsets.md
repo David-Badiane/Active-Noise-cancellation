@@ -54,7 +54,7 @@ The distance between ears and microphone is more or less of 14cm. tuning the noi
   
 # PROBLEMS
 
-1) It isn't easy to fecth the audio signal from the jack cable, I tried cutting and rewiring the jack cable but it resulted damagesd,  so i then tried to work directly with the signal, but again it's not easy to fetch the audiosignal from the speakers via wires for the noise and for finding the means to do it. I made another cable from the previous headphones I destroyed, but it seems to not work. 
+1) It isn't easy to fecth the audio signal from the jack cable, I tried cutting and rewiring the jack cable but it resulted damaged,  so i then tried to work directly with the signal, but again it's not easy to fetch the audiosignal from the speakers via wires for the noise and for finding the means to do it. I made another cable from the previous headphones I destroyed, but it seems to not work. 
 2)I have problems in activating the microphone
 3) I used Arduino oscilloscope and found out that the cable that takes the music does not work, and that the microphone isn't working either. Opamps seem to be working.
 4) the wires of the microphone and the breadboard fetch a lot of noise, isolation is strictly necessary.
